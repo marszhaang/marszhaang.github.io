@@ -1,2 +1,2 @@
-# huapengzhou.github.io
-My Personal website [huapengzhou.life](http://www.huapengzhou.life)
+# Self Intro
+My Personal website [zizhe.io](zizhe.io)
