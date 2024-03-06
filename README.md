@@ -1,2 +1,2 @@
 # Self Intro Page
-This is the [link](https://zizhe.io).
+This is the [link](zizhe.io).
