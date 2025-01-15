@@ -368,14 +368,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-finished-and-submitted-my-first-paper-to-ieee-ra-l",
+    },{id: "news-finished-and-submitted-my-first-paper-to-ieee-ra-l",
           title: 'Finished and submitted my first paper to IEEE RA-L.',
           description: "",
           section: "News",},{id: "news-joined-figueroa-robotics-lab-penn",
           title: 'Joined Figueroa Robotics Lab @ Penn.',
+          description: "",
+          section: "News",},{id: "news-resubmitted-my-revised-paper-to-ieee-ra-l",
+          title: 'Resubmitted my revised paper to IEEE RA-L.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
