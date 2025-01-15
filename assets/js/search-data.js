@@ -371,13 +371,11 @@ ninja.data = [{
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-finished-and-submitted-my-first-paper-to-ieee-ra-l",
+          title: 'Finished and submitted my first paper to IEEE RA-L.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-figueroa-robotics-lab-penn",
+          title: 'Joined Figueroa Robotics Lab @ Penn.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
